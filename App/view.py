@@ -58,7 +58,6 @@ def print_menu():
     # TODO: Mods de Est-1, Est-2 y Est-3 en el Lab 2
     # Agregue la opción 3 para cargar los tags de los libros.
     # Pueede guiarse de las opciones 1 y 2.
-    print("3- Cargar Book-Tags!!!...")
     print("0- Salir")
 
 
